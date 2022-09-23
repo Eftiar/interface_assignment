@@ -1,9 +1,9 @@
 package package3;
 
-import package2.Bus;
-import package2.Cng;
+import package2.Audi;
+import package2.Ferrari;
 
-class SuperCar implements Bus, Cng {
+class SuperCar implements Audi, Ferrari {
 
     public static final int SPEED_LIMIT = 2000;
 

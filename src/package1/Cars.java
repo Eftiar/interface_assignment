@@ -1,6 +1,6 @@
 package package1;
 
-public interface Vehicle {
+public interface Cars {
 
     void breaking();
 

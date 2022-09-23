@@ -1,11 +1,11 @@
 package package3;
 
-public class Print {
+public class Main {
     public static void main(String[]args){
-        HanifBus h = new HanifBus();
+        HanifAudi h = new HanifAudi();
         h.speedLimit();h.accelerating();h.breaking();h.honking();h.wheel();
 
-        ObhaiCng c = new ObhaiCng();
+        ObhaiFerrari c = new ObhaiFerrari();
         c.speedLimit();c.accelerating();c.breaking();c.honking();c.chokeLever();
 
         SuperCar s = new SuperCar();
