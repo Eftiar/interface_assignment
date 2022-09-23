@@ -1,8 +1,8 @@
 package package2;
 
-import package1.Cars;
+import package1.Vehicle;
 
-public interface Cng extends Cars {
+public interface Cng extends Vehicle {
 
     void chokeLever();
 

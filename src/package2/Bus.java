@@ -1,8 +1,8 @@
 package package2;
 
-import package1.Cars;
+import package1.Vehicle;
 
-public interface Bus extends Cars {
+public interface Bus extends Vehicle {
 
     void wheel();
 
